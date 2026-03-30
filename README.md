@@ -24,8 +24,3 @@
 
 ---
 
-### 📊 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=r1b6a5u4q8g5q8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="FRIG Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1b6a5u4q8g5q8&layout=compact&theme=tokyonight&hide_border=true" alt="FRIG Languages" height="150" />
-</p>
